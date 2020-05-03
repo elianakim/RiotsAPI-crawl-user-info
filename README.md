@@ -4,10 +4,6 @@ This simple code exploits Riots API to crawl user names categorized by their tie
 
 output: text files in path 'crawled/'
 
-# Project Title
-
-One Paragraph of project description goes here
-
 ## Getting Started
 
 command line: python /PATH/TO/crawl_by_tier.py your_region
